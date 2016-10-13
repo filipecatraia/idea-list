@@ -25,6 +25,12 @@ I'm not sure where this is headed, so be cool. Basically I wanted to publish som
 - [ ] Code review tool: over time, developers can go through the code and mark things up for review. Instead of just when someone's pushing out something. Example: I open a file, see something funky, mark it for review (but since that's not what I'm working on, I move on, someone will review it later).
 - [ ] Basic tools/gear for the home. I'm tired of the crap appliances/tools that don't can't get their core task handled right, and yet pile it up with useless extras. Smart TVs come to mind. Examples: alarm clocks that sync and have temperature and multiple tones, but no per-day alarm, volume control, soft night light. Energy-saving plugs can consume more energy than they save (saw a study about this somewhere). Fans are noisy plastic blobs with an outdated design.
 - [ ] Monitor air quality indoors, but mostly pollutants and oxygen levels. Also, is humidity right for humans/etc.
+- [ ] Self-hosted Stack Overflow for companies and small groups of people. Most of SO's features would be overkill in a smaller environment, but regular Q&A isn't as good as SO. Helps share best practices across teams, creates single-source-of-truth, moves information OUT of people's minds and INTO the shared mind.
+- [ ] Offline-first app with valuable snippets of information. Learn something on the subway.
+- [ ] Creativity exercises/stimulator/app. I use de Bono's "How to have creative ideas...", but pen+paper not always the best medium.
+- [ ] Something that lets disabled/elderly people call for help immediately. Like press a button on a wrist band and that's it, help comes.
+- [ ] Telegram bot that suggests recipe with simple instructions. Accepts prompts for key ingredients and food restrictions (vegan, etc.)
+- [ ] Easy to repair/upgrade laptops, 100% Linux support. Laptops are basically disposable, and that's uncool. Most popular ones appear to be 11/13 inches. Lots of RAM.
 
 
 ## random thoughts
@@ -39,4 +45,3 @@ I'm not sure where this is headed, so be cool. Basically I wanted to publish som
 - [Checklist to evaluate content/UX](http://ixdchecklist.com/)
 - [Tictail](https://tictail.com/)
 - [Flakes (for UIs of clients)](http://getflakes.com/index.html)
-
