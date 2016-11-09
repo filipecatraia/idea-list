@@ -4,7 +4,7 @@ kangae | a list of ideas
 I'm not sure where this is headed, so be cool. Basically I wanted to publish some ideas because I'm not going to work on them.
 
 
-## (sort this, enventually)
+## (sort this, eventually)
 
 - [ ] A list or blog that curates the best free online courses on YouTube. This makes it easy to download them for offline viewing, without hunting individual videos or dealing with YouTube's messy interface.
 - [ ] An online shop with just BSD/Linux laptops and Cyanogen/Replicant phones. Some exist with some of the features, but usually it's either outdated hardware or pricey. (I understand the limitations, thank you.)
